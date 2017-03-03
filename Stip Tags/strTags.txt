@@ -1,0 +1,12 @@
+strTags.pl
+##########
+
+Strips HTML tags from a file.
+
+Usage: strtags.pl <file>
+
+Note makes use of an auxilary file "tags.def" for ease of customisation an example of which is below.
+
+<body>::
+<head>::
+<p>:\n\n:
